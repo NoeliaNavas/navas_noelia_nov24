@@ -1,0 +1,2 @@
+Hata el momento he creado la estructura de carpetatas solicitada e incluido el .gitignore.
+Despues he inicializado el proyecto lo he enlazado con github a traves de la url, he realizado un push para subir la estructura de carpetas a github, he clonado mi github y por ultimo he creado la rama NoeliaNavas.
